@@ -1,4 +1,4 @@
-# Update time: 2023-11-04 13:52:29
+# Update time: 2023-11-04 14:19:46
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -532,10 +532,6 @@ analytics-*.aasaam.com
 ||log*-normal-lq.toutiaoapi.com^
 ||ads*.zijieapi.com^
 ||w*.*skwai.com^
-||imgpfx.arenavision.
-||allsportsflix.*^
-||player-feedback*.glomex.*^
-||ad.kisstvshow.*^
 ||ads*.opensubtitles.org^
 rgmechanicsgames.com*VPN.exe
 ||ads*.dfiles.eu^
@@ -560,6 +556,8 @@ rgmechanicsgames.com*VPN.exe
 ||cintent.streanplay.
 Banner468x60
 ||apple.com-*.live^
-||collector.xhamster*.*^
-||collector.hamsterix.*^
+||imgpfx.arenavision.
+||allsportsflix.*^
+||player-feedback*.glomex.*^
+||ad.kisstvshow.*^
 ||ifengad.*.ifeng.com^

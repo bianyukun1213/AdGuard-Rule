@@ -2,8 +2,11 @@
 
 !-------------白名单---------------
 
-#微博极速版头像
+# 微博极速版头像
 @@||sinaimg.cn^$important
+
+# bilibili
+@@||www.bilibili.com^$important,document
 
 !-------------黑名单---------------
 

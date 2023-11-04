@@ -2,6 +2,13 @@
 
 !-------------白名单---------------
 
+# 我的网站
+@@||his2nd.life^$important
+@@||yinhe.dev^$important
+@@||hollisdevhub.com^$important
+@@||127.0.0.1^$important
+@@||192.168.31.72^$important
+
 # 微博极速版头像
 @@||sinaimg.cn^$important
 

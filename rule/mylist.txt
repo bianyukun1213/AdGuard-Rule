@@ -18,6 +18,9 @@
 # bilibili
 @@||www.bilibili.com^$important,document
 
+# 机核（被 */banners? 规则误杀导致首页无法加载。）
+@@||gcores.com^$important
+
 !-------------黑名单---------------
 
 !-------以下是原 repo 内容---------

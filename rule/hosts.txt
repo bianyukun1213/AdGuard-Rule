@@ -1,4 +1,4 @@
-# Update time: 2023-11-12 20:15:07
+# Update time: 2023-11-13 08:42:28
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -12816,6 +12816,7 @@
 0.0.0.0 moneybot.net
 0.0.0.0 brokertraffic.com
 0.0.0.0 www.wessexgrange.plus.com
+0.0.0.0 posicionamientonatural.es
 0.0.0.0 ca4.revieworbit.com
 0.0.0.0 iprocollect.realmedia.com
 0.0.0.0 metrics.mlive.com

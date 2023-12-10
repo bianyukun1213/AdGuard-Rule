@@ -1,4 +1,4 @@
-# Update time: 2023-12-10 08:46:10
+# Update time: 2023-12-10 20:15:29
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -6653,6 +6653,7 @@
 0.0.0.0 ph-ad04.focalink.com
 0.0.0.0 francelbleu.fr
 0.0.0.0 adfarm1.adition.com
+0.0.0.0 b.doloaqywbvq.ru
 0.0.0.0 track.mdrctr.com
 0.0.0.0 media.superstats.com
 0.0.0.0 aaam.fr
@@ -10574,6 +10575,7 @@
 0.0.0.0 goobbe.com
 0.0.0.0 www.bizographics.com
 0.0.0.0 adserver.swiatobrazu.pl
+0.0.0.0 umgpjdlllhl.ru
 0.0.0.0 www.itrackerpro.com
 0.0.0.0 mycaal.fr
 0.0.0.0 mdamarillo.112.2o7.net

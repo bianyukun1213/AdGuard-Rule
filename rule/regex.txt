@@ -1,4 +1,4 @@
-# Update time: 2023-12-25 20:16:13
+# Update time: 2023-12-26 08:40:57
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -57,7 +57,6 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -91,6 +90,7 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -174,6 +174,7 @@ advertisers.js|
 ||ky891.oss-*.aliyuncs.com^
     <head>
 <!DOCTYPE html>
+            function do_onload() {
             }
         <noscript>
 ||apple.com-*.live^
@@ -185,6 +186,7 @@ analytics-*.aasaam.com
 ||gtmdev.jabra.
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
+||rgfftupf.
 ||adservice.google.
 ||collector-*.pxchk.net^
 ||host*.carl-ras.dk^
@@ -315,6 +317,7 @@ analytics-*.aasaam.com
 ||ads-dmp-collect.*.karrotmarket.com^
 ||mf*.advantage.as^
 ||button.blogs.yandex.
+||fxhpaoxqyajvmdg.
 ||flurry.agentportal-*.yahoodns.net^
 ||host*.rigbyandpeller.com^
 ||analytics.*.sky.com^
@@ -440,7 +443,6 @@ analytics-*.aasaam.com
 ||poptraf.
 ||4adtf.com.^
 ||v*.sitecounter.site^
-            function do_onload() {
 ||da.hornbach.*^
 ||appsflyer*.*^
 ||brucelead*.com^
@@ -532,12 +534,12 @@ analytics-*.aasaam.com
 ||gg*.51cto.com^
 ||analyzer*.fc2.com^
 ||tracker*.qcloud.com^
+||ifengad.*.ifeng.com^
 ||imgpfx.arenavision.
 ||allsportsflix.*^
 ||player-feedback*.glomex.*^
 ||buzzer.xhamster.
 ||ad.kisstvshow.*^
-||ifengad.*.ifeng.com^
 ||liveweb*.msstatic.com^
 ||pangolin-sdk-toutiao*.com^
 ||ads.*.kugou.com^
@@ -557,7 +559,6 @@ rgmechanicsgames.com*VPN.exe
 ||ads*.depositfiles.org^
 ||fapnado.*.php|
 ||itechpost.com*adbk
-||rgfftupf.
 @@||cdn*.porn300.com^
 ||gamenguide.com*adbk
 ||counter*.stat.ovh^
@@ -568,6 +569,5 @@ rgmechanicsgames.com*VPN.exe
 ||142.91.159.
 ||cas.*.criteo.com^
 ||spryptvqguhpwt^
-||fxhpaoxqyajvmdg.
 ||cintent.streanplay.
 Banner468x60

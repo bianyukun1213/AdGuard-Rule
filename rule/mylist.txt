@@ -6,11 +6,11 @@
 # （微信，使用 AdGuard 导致部分公众号文章封面图无法加载）
 
 # 我的网站
-@@||his2nd.life^$important
-@@||yinhe.dev^$important
-@@||hollisdevhub.com^$important
-@@||127.0.0.1^$important
-@@||192.168.31.72^$important
+@@||his2nd.life^$document,important
+@@||yinhe.dev^$document,important
+@@||hollisdevhub.com^$document,important
+@@||127.0.0.1^$document,important
+@@||192.168.31.72^$document,important
 
 # 不蒜子
 @@||busuanzi.ibruce.info^$important
@@ -19,7 +19,7 @@
 @@||sinaimg.cn^$important
 
 # bilibili
-@@||www.bilibili.com^$important,document
+@@||www.bilibili.com^$document,important
 
 # 机核（被 */banners? 规则误杀导致首页无法加载。）
 @@||gcores.com^$important

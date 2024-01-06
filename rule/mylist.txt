@@ -15,6 +15,10 @@
 # 不蒜子
 @@||busuanzi.ibruce.info^$important
 
+# GoatCounter
+@@||goatcounter.com^$important
+@@||gc.zgo.at^important
+
 # 微博极速版头像
 @@||sinaimg.cn^$important
 

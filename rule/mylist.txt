@@ -22,8 +22,9 @@
 # umami
 @@||umami.is^$important
 
-# Mozilla Telemetry
+# Mozilla
 @@||telemetry.mozilla.org^$important
+@@||push.services.mozilla.com^$important
 
 # 微博极速版头像
 @@||sinaimg.cn^$important

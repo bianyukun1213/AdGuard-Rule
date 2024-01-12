@@ -17,7 +17,13 @@
 
 # GoatCounter
 @@||goatcounter.com^$important
-@@||gc.zgo.at^important
+@@||gc.zgo.at^$important
+
+# umami
+@@||umami.is^$important
+
+# Mozilla Telemetry
+@@||telemetry.mozilla.org^$important
 
 # 微博极速版头像
 @@||sinaimg.cn^$important

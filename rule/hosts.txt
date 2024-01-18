@@ -1,4 +1,4 @@
-# Update time: 2024-01-17 20:17:34
+# Update time: 2024-01-18 08:43:10
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -11651,6 +11651,7 @@
 0.0.0.0 crwdcntrl.net
 0.0.0.0 im.52441.com
 0.0.0.0 rads.stackoverflow.com
+0.0.0.0 sitesofa.za.com
 0.0.0.0 toolbar.soso.com
 0.0.0.0 static.plugrush.com
 0.0.0.0 tranisere.fr

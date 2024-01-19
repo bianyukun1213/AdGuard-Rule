@@ -1,4 +1,4 @@
-# Update time: 2024-01-18 20:17:28
+# Update time: 2024-01-19 08:43:43
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -9848,6 +9848,7 @@
 0.0.0.0 server-oslo.imrworldwide.com
 0.0.0.0 service001.adtech.fr
 0.0.0.0 www6.counter.bloke.com
+0.0.0.0 old.umcl.us
 0.0.0.0 apx.moatads.com
 0.0.0.0 local-download.com
 0.0.0.0 counter16.bravenet.com

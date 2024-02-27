@@ -1,4 +1,4 @@
-# Update time: 2024-02-26 20:15:49
+# Update time: 2024-02-27 08:39:45
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -127,6 +127,9 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
+<head>
+<body>
+<!doctype html>
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -171,15 +174,11 @@ analytics-*.aasaam.com
 ||gtmdev.jabra.
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
-||rgfftupf.
 ||adservice.google.
-||counter*.stat.ovh^
 ||host*.carl-ras.dk^
-||ads.livetv*.me^
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
-||prebid-*.rubiconproject.com^
 ||faro-collector-prod-*.grafana.net^
 ||sgtm.fashionunited.
 ||lt*.tritondigital.com^
@@ -229,7 +228,6 @@ analytics-*.aasaam.com
 ||rb*.design.ru^
 ||log*.byteoversea.com^
 ||logs*.smithsonian.museum^
-||cs*.mp3bars.com^
 ||bar*.shinobi.jp^
 ||counter*.freecounter.ovh^
 ||grs.dbankcloud.
@@ -253,7 +251,6 @@ analytics-*.aasaam.com
 ||poshalim.
 ||events*.cre.ma^
 ||pixel-*.rubiconproject.com^
-||cdn-adn-*.rayjump.com^
 ||track.tiara.
 ||orbit*.lun.ua^
 ||popupclick.
@@ -267,11 +264,9 @@ analytics-*.aasaam.com
 ||mautic.*.vn^
 ||s*.adduplex.com^
 ||mon*-platform-*.tiktokv.com^
-||collect-elb-*.amazonaws.com^
 ||collector-*.tvsquared.com^
 ||adserver1.
 ||log-*.previewnetworks.com^
-||counter*-yadro*-ru.unblocked.lol^
 ||adx-*.dbankcloud.
 ||pop-parad.
 ||mediate-ios-*.hyprmx.com^
@@ -285,11 +280,9 @@ analytics-*.aasaam.com
 ||piwik.*.com.vn^
 ||mf*.advantage.as^
 ||button.blogs.yandex.
-||fxhpaoxqyajvmdg.
 ||flurry.agentportal-*.yahoodns.net^
 ||host*.rigbyandpeller.com^
 ||tw*.netcore.co.in^
-||clog*.yuanfudao.com^
 ||mapi-log.qoo*.jp^
 ||rum*.a.trbcdn.net^
 ||xlog*-*.tiktokv.com^
@@ -487,6 +480,7 @@ analytics-*.aasaam.com
 ||liveweb*.msstatic.com^
 ||pangolin-sdk-toutiao*.com^
 ||ping*.qq.com^
+||clog*.yuanfudao.com^
 ||cj1*.online^
 ||sd.yhzzzs*.com^
 ||w*.*skwai.com^
@@ -551,6 +545,7 @@ analytics-*.aasaam.com
 ||adcs-*.myappsget.com^
 ||ads*.textra.me^
 ||aj2*.online^
+||cs*.mp3bars.com^
 ||zazgiyoh*.xyz^
 ||zcchyw*.xyz^
 ||log*-misc-lq.amemv.com^
@@ -581,6 +576,7 @@ analytics-*.aasaam.com
 ||adx-*.dbankedge.cn^
 ||banner.*.tccapis.com^
 ||tblog-*.kgslb.com^
+||cdn-adn-*.rayjump.com^
 ||zahrvfbd*.xyz^
 ||sads*z.com^
 ||adx-*.op.dbankcloud.com.edgekey.net^
@@ -596,7 +592,9 @@ analytics-*.aasaam.com
 ||analytics*.carambo.la^
 ||util-*.simply-hentai.com^
 ||aan.amazon.*^
+||collect-elb-*.amazonaws.com^
 ||collector-*.px-cloud.net^
+||counter*-yadro*-ru.unblocked.lol^
 ||mads*z.com^
 ||gtlpa*.com^
 ||auth-*.hismarttv.com^
@@ -620,11 +618,16 @@ rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
 ||fapnado.*.php|
 ||itechpost.com*adbk
+||rgfftupf.
 @@||cdn*.porn300.com^
 ||gamenguide.com*adbk
+||counter*.stat.ovh^
 ||iqkufk^
 ||centent.streamp1ay.
+||ads.livetv*.me^
 ||142.91.159.
+||fxhpaoxqyajvmdg.
 ||spryptvqguhpwt^
+||prebid-*.rubiconproject.com^
 ||cintent.streanplay.
 Banner468x60

@@ -1,4 +1,4 @@
-# Update time: 2024-03-15 08:40:44
+# Update time: 2024-03-15 20:15:30
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -6750,6 +6750,7 @@
 0.0.0.0 www4.at.debianbase.de
 0.0.0.0 members.chello.nl
 0.0.0.0 vxiframe.biz
+0.0.0.0 claimcostcobenefits.com
 0.0.0.0 eds.ca.matchbox.maruhub.com
 0.0.0.0 as1.inoventiv.com
 0.0.0.0 lpcloudsvr302.com

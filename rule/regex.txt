@@ -1,4 +1,4 @@
-# Update time: 2024-05-01 20:17:39
+# Update time: 2024-05-02 08:41:45
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -221,7 +221,6 @@ analytics-*.aasaam.com
 ||sgtm.fashionunited.
 ||lt*.tritondigital.com^
 ||partner.superbahisaffiliates*.com^
-||datacollect*.abtasty.com^
 ||v.tzbox*.xyz^
 ||telemetry*.transcend.io^
 ||cnt.vivatube.
@@ -521,6 +520,7 @@ analytics-*.aasaam.com
 ||log*-applog-*.tiktokv.com^
 ||analytics-rollout-*.amazonaws.com^
 ||api-*.hismarttv.com^
+||datacollect*.abtasty.com^
 ||zazgiyoh*.world^
 ||collector-*.us.tvsquared.com^
 ||zazgbqg*.xyz^

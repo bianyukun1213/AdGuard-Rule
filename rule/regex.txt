@@ -1,4 +1,4 @@
-# Update time: 2024-06-07 08:46:22
+# Update time: 2024-06-07 20:19:33
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -172,15 +172,13 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-        loadFeed(...getLoadFeedArguments());
-    <script>
-        return arguments;
 <script>
             pageOptions
     xhr.send();
             } else {
 h1 {
 	}
+        loadFeed(...getLoadFeedArguments());
     function getLoadFeedArguments() {
                 arguments.push(this[possibleArguments[i]]);
         }
@@ -195,11 +193,15 @@ h1 {
     }
                     return;
     };
+    <script>
 <!DOCTYPE html>
 body {
                 console.log('There was a problem with the request.');
             }
+        return arguments;
 }
+||imgpfx.arenavision.
+||player-feedback*.glomex.*^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -419,8 +421,7 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
-||imgpfx.arenavision.
-||player-feedback*.glomex.*^
+||iad-*.braze.com^
 ||da.hornbach.*^
 ||appsflyer*.*^
 ||brucelead*.com^
@@ -642,7 +643,6 @@ analytics-*.aasaam.com
 ||aan.amazon.*^
 ||collect-elb-*.amazonaws.com^
 ||collector-*.px-cloud.net^
-||iad-*.braze.com^
 ||collector-*.tvsquared.com^
 ||counter*-yadro*-ru.unblocked.lol^
 ||mads*z.com^

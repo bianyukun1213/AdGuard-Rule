@@ -1,4 +1,4 @@
-# Update time: 2024-06-25 08:45:43
+# Update time: 2024-06-25 20:18:28
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -5879,6 +5879,7 @@
 0.0.0.0 aetv.112.2o7.net
 0.0.0.0 scripts.verticalacuity.com
 0.0.0.0 jl-mag.de
+0.0.0.0 myrogers-dashboard-signin.net
 0.0.0.0 c.latam.msn.com
 0.0.0.0 gbr-carat-tracking.adalyser.com
 0.0.0.0 mmoframes.com

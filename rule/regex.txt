@@ -1,4 +1,4 @@
-# Update time: 2024-10-11 20:21:25
+# Update time: 2024-10-12 08:53:40
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -196,7 +196,6 @@ body {
 }
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
-||iad-*.braze.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -424,6 +423,7 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
+||iad-*.braze.com^
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||bj*.9669.cn^

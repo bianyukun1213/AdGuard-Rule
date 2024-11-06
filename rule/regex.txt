@@ -1,4 +1,4 @@
-# Update time: 2024-11-05 20:21:07
+# Update time: 2024-11-06 08:54:37
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -55,7 +55,6 @@
 ||avito.avito.avito.
 ||yandex.pay.avito.
 ||report.*.qq.com^
-||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -75,6 +74,7 @@
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+||onetrust.
 ||adx.
 ||adx-
 ||adsfs.
@@ -297,6 +297,7 @@ analytics-*.aasaam.com
 ||analytics.ahrefs.
 ||s*.adduplex.com^
 ||mon*-platform-*.tiktokv.com^
+||collector-*.tvsquared.com^
 ||adserver1.
 ||log-*.previewnetworks.com^
 ||backstory.ebay.
@@ -427,6 +428,8 @@ analytics-*.aasaam.com
 ||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
+||imgpfx.arenavision.
+||player-feedback*.glomex.*^
 ||iad-*.braze.com^
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
@@ -532,10 +535,6 @@ analytics-*.aasaam.com
 @@||tongji.*kuwo.cn^
 ||gg*.51cto.com^
 ||tracker*.qcloud.com^
-||imgpfx.arenavision.
-||player-feedback*.glomex.*^
-||easyads28.*^
-||easyads29.*^
 ||pangolin-sdk-toutiao*.com^
 ||ping*.qq.com^
 ||clog*.yuanfudao.com^
@@ -654,7 +653,6 @@ analytics-*.aasaam.com
 ||aan.amazon.*^
 ||collect-elb-*.amazonaws.com^
 ||collector-*.px-cloud.net^
-||collector-*.tvsquared.com^
 ||counter*-yadro*-ru.unblocked.lol^
 ||mads*z.com^
 ||gtlpa*.com^

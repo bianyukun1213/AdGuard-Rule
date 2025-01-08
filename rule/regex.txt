@@ -1,4 +1,4 @@
-# Update time: 2025-01-07 20:22:40
+# Update time: 2025-01-08 08:56:08
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -133,12 +133,16 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
+<head>
+<body>
+<!doctype html>
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||67.21.92.*.gif
 ||uc*.atobo.com^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
+||bdlm*.hc360.com^
 728x90.jpg|
 ||ya*.dwstatic.com^
 ||fpb*.51edu.com^
@@ -161,9 +165,6 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-<head>
-<body>
-<!doctype html>
 <script>
             pageOptions
     xhr.send();
@@ -192,6 +193,10 @@ body {
             }
         return arguments;
 }
+||imgpfx.arenavision.
+||player-feedback*.glomex.*^
+||iad-*.braze.com^
+||ifengad.*.ifeng.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -444,9 +449,6 @@ analytics-*.aasaam.com
 ||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
-||imgpfx.arenavision.
-||player-feedback*.glomex.*^
-||iad-*.braze.com^
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||dm-*.toutiao.com^
@@ -484,13 +486,11 @@ analytics-*.aasaam.com
 ||iflyad.*.openstorage.cn^
 ||freecontent.*^
 ||24smi.*^
-||doubleclick*.xyz^
 ||ac*.786ip.com^
 ||pingfore*.*^
 ||at*.doubanio.com^
 ||dm*.yxlady.com^
 ||openx*.*^
-||ablen*.tk^
 ||gg*.miguvideo.com^
 ||sda*.xyz^
 ||oiwjcsh*.top^
@@ -540,7 +540,6 @@ analytics-*.aasaam.com
 ||pussl*.com^
 ||same*.stockstar.com^
 ||admicro*.vcmedia.vn^
-||darking*.tk^
 ||ad*.molitv.cn^
 ||dsp*.youdao.com^
 ||domob*.*^
@@ -627,7 +626,6 @@ analytics-*.aasaam.com
 ||ulog*.*^
 ||api*.amplitude.com^
 ||app-analytics-*.snapchat.com^
-||ifengad.*.ifeng.com^
 ||bjkedv*.xyz^
 ||p26.gejulm*.com^
 ||adservice.google.*^
@@ -661,7 +659,6 @@ analytics-*.aasaam.com
 ||n*adserv.xyz^
 ||fls-*.amazon.com^
 ||adsfilebssdlbig.*.kugou.com^
-||bdlm*.hc360.com^
 ||ad*.nexage.com^
 ||aj1*.xyz^
 ||analytics*.carambo.la^

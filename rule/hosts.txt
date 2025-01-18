@@ -1,4 +1,4 @@
-# Update time: 2025-01-18 08:52:20
+# Update time: 2025-01-18 20:18:59
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -3658,6 +3658,7 @@
 0.0.0.0 paperg.com
 0.0.0.0 analytics.prx.org
 0.0.0.0 meridiameridia.3xforum.ro
+0.0.0.0 ptagercity.fr
 0.0.0.0 viacom.oewabox.at
 0.0.0.0 affimg.pop6.com
 0.0.0.0 www.lduhtrp.net

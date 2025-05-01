@@ -1,4 +1,4 @@
-# Update time: 2025-05-01 09:08:37
+# Update time: 2025-05-01 20:24:09
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -164,17 +164,6 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-	}
-    })();
-<div>
-<style>
-        body {
-    (function () {
-        }
-        iframe {
-}
-<script>
-			Buy this domain. | More domains at Seo.Domains
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
 ||da.hornbach.*^
@@ -297,6 +286,7 @@ advertisers.js|
 ||collector-*.us.tvsquared.com^
 ||mon-*.lemon8-app.us^
 ||mon-*.lemon8-app.com^
+||telemetry*.transcend.io^
 ||log*-misc-lf.amemv.com^
 ||stats2.*.fdnames.com^
 ||v*.denakop.com^
@@ -324,6 +314,7 @@ advertisers.js|
 ||events-api*.outfit7.com^
 ||display-ad-*.kgslb.com^
 ||ac*.pingguolv.com^
+||tnc*.tiktokv.us^
 ||mistat.*.xiaomi.com^
 ||ad*.ettoday.net^
 ||report*.appmetrica.webvisor.com^
@@ -347,6 +338,7 @@ advertisers.js|
 ||cs*.mp3bars.com^
 ||zazgiyoh*.xyz^
 ||stats*.credit-cooperatif.coop^
+||tracking*.euroads.fi^
 ||ulog*.*^
 ||mcs-*.tiktok.com^
 ||ifengad.*.ifeng.com^
@@ -551,7 +543,6 @@ analytics-*.aasaam.com
 ||23.109.82.
 ||u*.takru.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
-||telemetry*.transcend.io^
 ||cnt.vivatube.
 ||rotabanner.
 ||www.fuze-sea*.xyz^
@@ -600,7 +591,6 @@ analytics-*.aasaam.com
 ||marketplace-*.hyprmx.com^
 ||under-click.
 ||analytics.streamfab.
-||tnc*.tiktokv.us^
 ||log-collector.shopee.
 ||ad*.tmgrup.com.tr^
 ||goodadvert.
@@ -623,7 +613,6 @@ analytics-*.aasaam.com
 ||grs.dbankcloud.
 ||tracking-v*.a.run.app^
 ||collector.hamsterix.
-||tracking*.euroads.fi^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||i-*.ci360.sas.com^
 ||a*.smlog.co.kr^

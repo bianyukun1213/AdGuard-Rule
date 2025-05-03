@@ -1,4 +1,4 @@
-# Update time: 2025-05-02 20:25:10
+# Update time: 2025-05-03 09:01:20
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2632,6 +2632,7 @@
 0.0.0.0 ads7.advance.net
 0.0.0.0 protection.TOpolice.com
 0.0.0.0 skelaxin.3.p2l.info
+0.0.0.0 intelcomasfcmscta.com
 0.0.0.0 gpaper116.112.2o7.net
 0.0.0.0 escape.insites.eu
 0.0.0.0 carisoprodol.shengen.ru

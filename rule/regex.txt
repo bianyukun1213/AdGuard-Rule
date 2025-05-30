@@ -1,4 +1,4 @@
-# Update time: 2025-05-29 20:26:16
+# Update time: 2025-05-30 09:03:27
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -140,6 +140,7 @@ advertisers.js|
         <noscript>
 <head>
 <body>
+<head>
 <!doctype html>
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
@@ -169,32 +170,6 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-<script>
-            pageOptions
-    xhr.send();
-            } else {
-h1 {
-	}
-        loadFeed(...getLoadFeedArguments());
-    function getLoadFeedArguments() {
-                arguments.push(this[possibleArguments[i]]);
-        }
-};
-			Buy this domain. | More domains at Seo.Domains
-                }
-            2025 Copyright | All Rights Reserved.
-                console.log(JSON.parse(xhr.responseText))
-<style>
-        ];
-    Privacy Policy
-    }
-                    return;
-    };
-    <script>
-body {
-                console.log('There was a problem with the request.');
-        return arguments;
-}
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
 ||da.hornbach.*^
@@ -298,9 +273,6 @@ body {
 @@||tongji.*kuwo.cn^
 ||gg*.51cto.com^
 ||tracker*.qcloud.com^
-||us.*.qwadro.com^
-||iad-*.braze.com^
-||tnc16-*.byteoversea.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||ping*.qq.com^
@@ -346,7 +318,6 @@ body {
 ||events-api*.outfit7.com^
 ||display-ad-*.kgslb.com^
 ||ac*.pingguolv.com^
-||tnc*.tiktokv.us^
 ||mistat.*.xiaomi.com^
 ||ad*.ettoday.net^
 ||report*.appmetrica.webvisor.com^
@@ -366,6 +337,7 @@ body {
 ||ad.*.xiaomi.com^
 ||mon*-misc-lf.fqnovel.com^
 ||ads*.textra.me^
+||us.*.qwadro.com^
 ||aj2*.online^
 ||cs*.mp3bars.com^
 ||zazgiyoh*.xyz^
@@ -436,6 +408,7 @@ body {
 ||pangolin-sdk-toutiao*.com^
 ||collector-*.luigisbox.com^
 ||clog*.yuanfudao.com^
+||creative*.bidease.com^
 ||mapi-log.qoo*.jp^
 ||api16-access-ttp*.tiktokpangle-b.us^
 ||w*.*skwai.com^
@@ -537,6 +510,7 @@ body {
 ||analytics*.carambo.la^
 ||chat*-ce.chatdealer.jp^
 ||aan.amazon.*^
+||iad-*.braze.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||bjsvp*.space^
 ||hw-p2p*pull*com^
@@ -553,7 +527,6 @@ body {
 analytics-*.aasaam.com
 ||an.yandex.
 ||gtmdev.jabra.
-||creative*.bidease.com^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
@@ -628,6 +601,7 @@ analytics-*.aasaam.com
 ||marketplace-*.hyprmx.com^
 ||under-click.
 ||analytics.streamfab.
+||tnc*.tiktokv.us^
 ||log-collector.shopee.
 ||ad*.tmgrup.com.tr^
 ||goodadvert.
@@ -738,6 +712,7 @@ analytics-*.aasaam.com
 ||zbb.bbb.*.pics^
 ||tw*.netcore.co.in^
 ||v*.sitecounter.site^
+||tnc16-*.byteoversea.com^
 ||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
 rgmechanicsgames.com*VPN.exe

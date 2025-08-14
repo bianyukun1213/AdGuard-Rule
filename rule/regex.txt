@@ -1,4 +1,4 @@
-# Update time: 2025-08-13 20:28:19
+# Update time: 2025-08-14 09:07:57
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -64,6 +64,7 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
+||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -96,7 +97,6 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
-||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -225,7 +225,6 @@ body {
 ||vegaoo*.*^
 ||ads*-adnow.com^
 ||clkservice*.youdao.com^
-||putrr*.com^
 ||impservice*.youdao.com^
 ||d*.ruiwen.com^
 ||count*.pconline.com.cn^
@@ -369,6 +368,7 @@ body {
 ||ads*.textra.me^
 ||aj2*.online^
 ||cs*.mp3bars.com^
+||ecommerce-events*.adscale.com^
 ||zazgiyoh*.xyz^
 ||stats*.credit-cooperatif.coop^
 ||tracking*.euroads.fi^
@@ -470,7 +470,6 @@ body {
 ||apple-*.le.com^
 ||imp-*.jampp.com^
 ||mobileanalytics.*.amazonaws.com^
-||tracking.*.miui.com^
 ||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
 ||adv0*.msa.cdn.mediaset.net^
@@ -581,7 +580,6 @@ analytics-*.aasaam.com
 ||bondzgi*.
 ||etargetnet.*.hu^
 ||ulog-*.ksapisrv.com^
-||prebid-*.rubiconproject.com^
 ||rum*.cdnvideo.ru^
 ||sgtm.fashionunited.
 ||partner.superbahisaffiliates*.com^
@@ -610,6 +608,8 @@ analytics-*.aasaam.com
 ||cnt.yeptube.
 ||bc.geocities.
 ||tag-based.s3.*.amazonaws.com^
+||tracking.*.miui.com^
+||putrr*.com^
 ||alishop*.ru^
 ||pijama.*.elasticbeanstalk.com^
 ||ad*.wisenut.co.kr^
@@ -658,7 +658,6 @@ analytics-*.aasaam.com
 ||logs*.smithsonian.museum^
 ||ulog*.kwai-pro.com^
 ||bar*.shinobi.jp^
-||ecommerce-events*.adscale.com^
 ||counter*.freecounter.ovh^
 ||grs.dbankcloud.
 ||tracking-v*.a.run.app^
@@ -766,5 +765,6 @@ rgmechanicsgames.com*VPN.exe
 ||ads.livetv*.me^
 ||142.91.159.
 ||fxhpaoxqyajvmdg.
+||prebid-*.rubiconproject.com^
 ||cintent.streanplay.
 Banner468x60

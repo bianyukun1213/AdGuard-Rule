@@ -1,4 +1,4 @@
-# Update time: 2025-08-29 09:01:08
+# Update time: 2025-08-29 20:25:22
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -55,21 +55,27 @@
 ||avito.avito.avito.
 ||yandex.pay.avito.
 ||report.*.qq.com^
+||onetrust.
+||allyes.
 ||icast.
 ||gg.
 ||union.
+||ad.
 ||ads.
 ||cnzz.
 ||adsfile.
+||adserver.
+||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
+||adsense.
 ||xmindchina.
+||ggg.
 ||admaster.
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-||onetrust.
 ||adx.
 ||adx-
 ||adsfs.
@@ -85,15 +91,12 @@ MRelateFeedAd
 ||adstats.
 ||toujing*.top^
 ||popup.*.js*
-||ggg.
 ||advert.
 ||irs01.
 ||advert-
-||allyes.
 ||adcolony.
 ||advertising.
 ||showad*
-||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -109,18 +112,15 @@ getAds|
 ||appjiagu.
 ||img.piaosugo.com*.jpg
 ||adsmis.
-||adserver.
 ||sense-*.tapdb.net^
 ||pc.min.js*
 ||minero-proxy-*now.sh
 ||pagead2.
 ||guangyaoli.
-||adsense.
 ||ading.
 ||googleads.
 ||umengacs.
 ||ads-
-||ad.
 piao.js|
 oHead6205.appendChild( oScript6205);
 ||ad-
@@ -164,6 +164,35 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+<script>
+    <noscript>
+            pageOptions
+    xhr.send();
+            } else {
+h1 {
+	}
+        loadFeed(...getLoadFeedArguments());
+    function getLoadFeedArguments() {
+                arguments.push(this[possibleArguments[i]]);
+        }
+};
+			Buy this domain. | More domains at Seo.Domains
+                }
+            2025 Copyright | All Rights Reserved.
+                console.log(JSON.parse(xhr.responseText))
+<style>
+        ];
+    Privacy Policy
+    }
+                    return;
+    };
+    <script>
+<!DOCTYPE html>
+body {
+                console.log('There was a problem with the request.');
+            }
+        return arguments;
+}
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
 ||da.hornbach.*^
@@ -268,7 +297,6 @@ advertisers.js|
 ||gg*.51cto.com^
 ||tracker*.qcloud.com^
 ||us.*.qwadro.com^
-||iad-*.braze.com^
 ||tnc16-*.byteoversea.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
@@ -444,6 +472,7 @@ advertisers.js|
 ||apple-*.le.com^
 ||imp-*.jampp.com^
 ||mobileanalytics.*.amazonaws.com^
+||tracking.*.miui.com^
 ||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
 ||adv0*.msa.cdn.mediaset.net^
@@ -522,6 +551,7 @@ advertisers.js|
 ||analytics*.carambo.la^
 ||chat*-ce.chatdealer.jp^
 ||aan.amazon.*^
+||iad-*.braze.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||bjsvp*.space^
 ||tracking-*.trnox.com^
@@ -555,6 +585,7 @@ analytics-*.aasaam.com
 ||bondzgi*.
 ||etargetnet.*.hu^
 ||ulog-*.ksapisrv.com^
+||prebid-*.rubiconproject.com^
 ||rum*.cdnvideo.ru^
 ||sgtm.fashionunited.
 ||partner.superbahisaffiliates*.com^
@@ -583,7 +614,6 @@ analytics-*.aasaam.com
 ||cnt.yeptube.
 ||bc.geocities.
 ||tag-based.s3.*.amazonaws.com^
-||tracking.*.miui.com^
 ||alishop*.ru^
 ||pijama.*.elasticbeanstalk.com^
 ||ad*.wisenut.co.kr^
@@ -643,7 +673,6 @@ analytics-*.aasaam.com
 ||ad*.bilgin.pro^
 ||track.zalando.
 ||seller-log-collector.shopee.
-||advert*.livesportmedia.eu^
 ||px*.mediahills.ru^
 ||subnewss*.net^
 ||23.109.87.
@@ -739,37 +768,8 @@ rgmechanicsgames.com*VPN.exe
 ||counter*.stat.ovh^
 ||centent.streamp1ay.
 ||ads.livetv*.me^
+||advert*.livesportmedia.eu^
 ||142.91.159.
 ||fxhpaoxqyajvmdg.
-||prebid-*.rubiconproject.com^
 ||cintent.streanplay.
 Banner468x60
-                console.log(JSON.parse(xhr.responseText))
-    }
-            pageOptions
-    xhr.send();
-                    return;
-h1 {
-        loadFeed(...getLoadFeedArguments());
-    function getLoadFeedArguments() {
-                arguments.push(this[possibleArguments[i]]);
-<!DOCTYPE html>
-        }
-body {
-                console.log('There was a problem with the request.');
-        return arguments;
-}
-			Buy this domain. | More domains at Seo.Domains
-                }
-            2025 Copyright | All Rights Reserved.
-<style>
-        ];
-    Privacy Policy
-<script>
-    <noscript>
-    };
-            } else {
-	}
-    <script>
-            }
-};

@@ -1,4 +1,4 @@
-# Update time: 2025-09-23 20:25:35
+# Update time: 2025-09-24 08:59:31
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -64,6 +64,7 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
+||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -96,7 +97,6 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
-||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -197,18 +197,6 @@ body {
 }
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
-    xhr.send();
-        console.log('Callback complete.');
-                    return;
-                }
-            } else {
-    })();
-<div>
-iframe {
-                console.log(JSON.parse(xhr.responseText))
-    (function () {
-                console.log('There was a problem with the request.');
-};
 ||us.*.qwadro.com^
 ||iad-*.braze.com^
 ||tnc16-*.byteoversea.com^

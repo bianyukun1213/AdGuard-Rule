@@ -1,4 +1,4 @@
-# Update time: 2025-10-21 20:27:36
+# Update time: 2025-10-22 09:03:31
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -9844,6 +9844,7 @@
 0.0.0.0 counter16.bravenet.com
 0.0.0.0 out.popads.net
 0.0.0.0 dos.velek.com
+0.0.0.0 gekowex.com
 0.0.0.0 nbtp1.sa.com
 0.0.0.0 liczniki.org
 0.0.0.0 advzilla.com

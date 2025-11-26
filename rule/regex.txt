@@ -1,4 +1,4 @@
-# Update time: 2025-11-26 09:04:23
+# Update time: 2025-11-26 20:29:13
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -64,7 +64,6 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -97,6 +96,7 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -142,6 +142,7 @@ advertisers.js|
 ||uc*.atobo.com^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
+||bdlm*.hc360.com^
 728x90.jpg|
 ||ya*.dwstatic.com^
 ||fpb*.51edu.com^
@@ -166,37 +167,6 @@ advertisers.js|
 ||ky891.oss-*.aliyuncs.com^
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
-    })();
-  console.log('Callback complete.');
-        iframe {
-<script>
-            return null;
-            console.log(data);
-        } else {
-	}
-h1 {
-    document.getElementById('content').remove();
-        }
-    });
-            window.onRTBFailure();
-};
-			Buy this domain. | More domains at Seo.Domains
-    })
-<noscript>
-        h1 {
-        p {
-        footer {
-<style>
-        body {
-    (function () {
-    }
-        return JSON.parse(await response.text());
-        window.onRTBFailure();
-<div>
-    <script>
-        console.error(error);
-body {
-}
 ||da.hornbach.*^
 ||dm-*.toutiao.com^
 ||adsystem*.*^
@@ -254,7 +224,6 @@ body {
 ||qchannel*.cn^
 ||tracker*.qcloud.com^
 ||adwords*.*^
-||us.*.qwadro.com^
 ||tnc16-*.byteoversea.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
@@ -329,9 +298,9 @@ body {
 ||mon*-misc-lf.fqnovel.com^
 ||mon*-misc.fqnovel.com^
 ||ads*.textra.me^
+||us.*.qwadro.com^
 ||aj2*.online^
 ||cs*.mp3bars.com^
-||ecommerce-events*.adscale.com^
 ||zazgiyoh*.xyz^
 ||stats*.credit-cooperatif.coop^
 ||tracking*.euroads.fi^
@@ -343,6 +312,7 @@ body {
 ||adservice.google.*^
 ||ad.kisstvshow.*^
 ||device-metrics-*.amazon.com^
+||track.*.roku.com^
 ||widgets.*.webengage.com^
 ||ads*.depositfiles.com^
 ||ad-*.appacc.dbankedge.cn^
@@ -501,7 +471,6 @@ body {
 ||aj3*.bid^
 ||host*.rvshare.com^
 ||log*-*.tiktokv.com^
-||events-*.op.hicloud.com^
 ||zbc6hye*.xyz^
 ||logs-*.rebxgame.com^
 ||promo-*.vercel.app^
@@ -517,7 +486,6 @@ body {
 ||js.*2023*.live^
 ||collect-v*.51.la^
 ||logger-*.dailymotion.com^
-||bdlm*.hc360.com^
 ||analytics*.carambo.la^
 ||chat*-ce.chatdealer.jp^
 ||aan.amazon.*^
@@ -541,8 +509,11 @@ analytics-*.aasaam.com
 ||gtmdev.jabra.
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
+||rgfftupf.
 ||adservice.google.
+||counter*.stat.ovh^
 |load.sst.
+||ads.livetv*.me^
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
@@ -584,18 +555,17 @@ analytics-*.aasaam.com
 ||rb*.design.ru^
 ||logs*.smithsonian.museum^
 ||bar*.shinobi.jp^
+||ecommerce-events*.adscale.com^
 ||counter*.freecounter.ovh^
 ||grs.dbankcloud.
 ||tracking-v*.a.run.app^
 ||a*.smlog.co.kr^
 ||track.zalando.
 ||seller-log-collector.shopee.
-||advert*.livesportmedia.eu^
 ||subnewss*.net^
 ||t.delfi.
 ||hostingcloud.*.wasm^
 ||medialand.
-||track.*.roku.com^
 ||install*.zonastat.com^
 ||rusrestbest.
 ||v.newsportal*.ru^
@@ -633,6 +603,7 @@ analytics-*.aasaam.com
 ||mf*.advantage.as^
 ||query*.petametrics.com^
 ||button.blogs.yandex.
+||fxhpaoxqyajvmdg.
 ||zbb.bbb.*.pics^
 ||tw*.netcore.co.in^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
@@ -701,11 +672,13 @@ analytics-*.aasaam.com
 ||cnt.proporn.
 ||popuptraf.
 ||ulog*.kwaipros.com^
+||events-*.op.hicloud.com^
 ||vst.videolink.
 ||158.247.208.
 |load.gtm.
 ||stats*.videonow.ru^
 ||pixel.archive.
+||reachableads-av.*.amazonaws.com^
 ||ad*.thisisgame.com^
 ||q*-publick.club^
 ||iad-*.appboy.com^
@@ -733,17 +706,37 @@ analytics-*.aasaam.com
 ||poptraf.
 ||v*.sitecounter.site^
 ||touch.yesim.
-||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
+||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
+||advert*.livesportmedia.eu^
+||142.91.159.
 ||fapnado.*.php|
 ||itechpost.com*adbk
-||rgfftupf.
-@@||cdn*.porn300.com^
-||gamenguide.com*adbk
-||counter*.stat.ovh^
-||ads.livetv*.me^
-||142.91.159.
-||fxhpaoxqyajvmdg.
 ||prebid-*.rubiconproject.com^
+@@||cdn*.porn300.com^
 Banner468x60
+<noscript>
+    })();
+        h1 {
+        p {
+        footer {
+<style>
+  console.log('Callback complete.');
+        body {
+    (function () {
+    }
+        iframe {
+<script>
+    xhr.send();
+	}
+h1 {
+<div>
+    <script>
+    document.getElementById('content').remove();
+        }
+                console.log('There was a problem with the request.');
+body {
+            }
+};
+			Buy this domain. | More domains at Seo.Domains

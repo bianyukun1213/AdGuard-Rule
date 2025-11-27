@@ -1,4 +1,4 @@
-# Update time: 2025-11-26 20:29:13
+# Update time: 2025-11-27 09:03:19
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -142,7 +142,6 @@ advertisers.js|
 ||uc*.atobo.com^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
-||bdlm*.hc360.com^
 728x90.jpg|
 ||ya*.dwstatic.com^
 ||fpb*.51edu.com^
@@ -167,6 +166,37 @@ advertisers.js|
 ||ky891.oss-*.aliyuncs.com^
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
+<script>
+    <noscript>
+            pageOptions
+            return null;
+            console.log(data);
+        } else {
+h1 {
+	}
+        loadFeed(...getLoadFeedArguments());
+    function getLoadFeedArguments() {
+                arguments.push(this[possibleArguments[i]]);
+        }
+    });
+            window.onRTBFailure();
+			Buy this domain. | More domains at Seo.Domains
+    })
+            2025 Copyright | All Rights Reserved.
+<style>
+        ];
+    Privacy Policy
+    }
+        return JSON.parse(await response.text());
+        window.onRTBFailure();
+    };
+    <script>
+        console.error(error);
+<!DOCTYPE html>
+body {
+            }
+        return arguments;
+}
 ||da.hornbach.*^
 ||dm-*.toutiao.com^
 ||adsystem*.*^
@@ -224,6 +254,7 @@ advertisers.js|
 ||qchannel*.cn^
 ||tracker*.qcloud.com^
 ||adwords*.*^
+||us.*.qwadro.com^
 ||tnc16-*.byteoversea.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
@@ -298,9 +329,9 @@ advertisers.js|
 ||mon*-misc-lf.fqnovel.com^
 ||mon*-misc.fqnovel.com^
 ||ads*.textra.me^
-||us.*.qwadro.com^
 ||aj2*.online^
 ||cs*.mp3bars.com^
+||ecommerce-events*.adscale.com^
 ||zazgiyoh*.xyz^
 ||stats*.credit-cooperatif.coop^
 ||tracking*.euroads.fi^
@@ -312,7 +343,6 @@ advertisers.js|
 ||adservice.google.*^
 ||ad.kisstvshow.*^
 ||device-metrics-*.amazon.com^
-||track.*.roku.com^
 ||widgets.*.webengage.com^
 ||ads*.depositfiles.com^
 ||ad-*.appacc.dbankedge.cn^
@@ -471,6 +501,7 @@ advertisers.js|
 ||aj3*.bid^
 ||host*.rvshare.com^
 ||log*-*.tiktokv.com^
+||events-*.op.hicloud.com^
 ||zbc6hye*.xyz^
 ||logs-*.rebxgame.com^
 ||promo-*.vercel.app^
@@ -486,6 +517,7 @@ advertisers.js|
 ||js.*2023*.live^
 ||collect-v*.51.la^
 ||logger-*.dailymotion.com^
+||bdlm*.hc360.com^
 ||analytics*.carambo.la^
 ||chat*-ce.chatdealer.jp^
 ||aan.amazon.*^
@@ -493,7 +525,6 @@ advertisers.js|
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||bjsvp*.space^
 ||hw-p2p*pull*com^
-||telemetry.*.pvp.net^
 ||gtlpa*.com^
 ||ali-p2p*pull*com^
 ||log*-normal-lq.toutiaoapi.com^
@@ -509,14 +540,12 @@ analytics-*.aasaam.com
 ||gtmdev.jabra.
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
-||rgfftupf.
 ||adservice.google.
-||counter*.stat.ovh^
 |load.sst.
-||ads.livetv*.me^
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
+||prebid-*.rubiconproject.com^
 ||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^
 ||sgtm.fashionunited.
 ||partner.superbahisaffiliates*.com^
@@ -555,17 +584,18 @@ analytics-*.aasaam.com
 ||rb*.design.ru^
 ||logs*.smithsonian.museum^
 ||bar*.shinobi.jp^
-||ecommerce-events*.adscale.com^
 ||counter*.freecounter.ovh^
 ||grs.dbankcloud.
 ||tracking-v*.a.run.app^
 ||a*.smlog.co.kr^
 ||track.zalando.
 ||seller-log-collector.shopee.
+||advert*.livesportmedia.eu^
 ||subnewss*.net^
 ||t.delfi.
 ||hostingcloud.*.wasm^
 ||medialand.
+||track.*.roku.com^
 ||install*.zonastat.com^
 ||rusrestbest.
 ||v.newsportal*.ru^
@@ -603,7 +633,6 @@ analytics-*.aasaam.com
 ||mf*.advantage.as^
 ||query*.petametrics.com^
 ||button.blogs.yandex.
-||fxhpaoxqyajvmdg.
 ||zbb.bbb.*.pics^
 ||tw*.netcore.co.in^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
@@ -672,13 +701,11 @@ analytics-*.aasaam.com
 ||cnt.proporn.
 ||popuptraf.
 ||ulog*.kwaipros.com^
-||events-*.op.hicloud.com^
 ||vst.videolink.
 ||158.247.208.
 |load.gtm.
 ||stats*.videonow.ru^
 ||pixel.archive.
-||reachableads-av.*.amazonaws.com^
 ||ad*.thisisgame.com^
 ||q*-publick.club^
 ||iad-*.appboy.com^
@@ -691,6 +718,7 @@ analytics-*.aasaam.com
 ||ms*.applvn.com^
 ||thegreatesthits.
 ||tracking-*.trnox.com^
+||telemetry.*.pvp.net^
 ||sgtm.wimdu.
 ||snowplow-collector.
 ||www.fuze-hill*.xyz^
@@ -706,37 +734,16 @@ analytics-*.aasaam.com
 ||poptraf.
 ||v*.sitecounter.site^
 ||touch.yesim.
+||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
-||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
-||advert*.livesportmedia.eu^
-||142.91.159.
 ||fapnado.*.php|
 ||itechpost.com*adbk
-||prebid-*.rubiconproject.com^
+||rgfftupf.
 @@||cdn*.porn300.com^
+||gamenguide.com*adbk
+||counter*.stat.ovh^
+||ads.livetv*.me^
+||142.91.159.
+||fxhpaoxqyajvmdg.
 Banner468x60
-<noscript>
-    })();
-        h1 {
-        p {
-        footer {
-<style>
-  console.log('Callback complete.');
-        body {
-    (function () {
-    }
-        iframe {
-<script>
-    xhr.send();
-	}
-h1 {
-<div>
-    <script>
-    document.getElementById('content').remove();
-        }
-                console.log('There was a problem with the request.');
-body {
-            }
-};
-			Buy this domain. | More domains at Seo.Domains

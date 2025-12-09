@@ -1,4 +1,4 @@
-# Update time: 2025-12-08 20:29:15
+# Update time: 2025-12-09 09:05:46
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -494,7 +494,6 @@ advertisers.js|
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||bjsvp*.space^
 ||hw-p2p*pull*com^
-||telemetry.*.pvp.net^
 ||gtlpa*.com^
 ||ali-p2p*pull*com^
 ||log*-normal-lq.toutiaoapi.com^
@@ -689,6 +688,7 @@ analytics-*.aasaam.com
 ||ms*.applvn.com^
 ||thegreatesthits.
 ||tracking-*.trnox.com^
+||telemetry.*.pvp.net^
 ||sgtm.wimdu.
 ||snowplow-collector.
 ||www.fuze-hill*.xyz^

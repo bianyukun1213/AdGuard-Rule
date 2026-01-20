@@ -1,4 +1,4 @@
-# Update time: 2026-01-20 09:10:13
+# Update time: 2026-01-20 20:34:05
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -223,7 +223,6 @@ advertisers.js|
 ||qchannel*.cn^
 ||tracker*.qcloud.com^
 ||adwords*.*^
-||us.*.qwadro.com^
 ||tnc16-*.byteoversea.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
@@ -300,6 +299,7 @@ advertisers.js|
 ||mon*-misc-lf.fqnovel.com^
 ||mon*-misc.fqnovel.com^
 ||ads*.textra.me^
+||us.*.qwadro.com^
 ||aj2*.online^
 ||cs*.mp3bars.com^
 ||ecommerce-events*.adscale.com^
@@ -378,7 +378,6 @@ advertisers.js|
 ||host*.rigbyandpeller.com^
 ||analytics.*.sky.com^
 ||servo-report.keepstreams.*^
-||tw*.netcore.co.in^
 ||pangolin-sdk-toutiao*.com^
 ||collector-*.luigisbox.com^
 ||logreport-global-dual.cool*cloud.com^
@@ -386,7 +385,6 @@ advertisers.js|
 ||htm*.hepsiburada.com^
 ||creative*.bidease.com^
 ||mapi-log.qoo*.jp^
-||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||api16-access-ttp*.tiktokpangle-b.us^
 ||w*.*skwai.com^
 ||logs.collector.*.cloud.solarwinds.com^
@@ -535,6 +533,7 @@ analytics-*.aasaam.com
 ||gtmdev.jabra.
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
+||rgfftupf.
 ||adservice.google.
 |load.sst.
 ||allsportsflix.
@@ -630,7 +629,10 @@ analytics-*.aasaam.com
 ||mf*.advantage.as^
 ||query*.petametrics.com^
 ||button.blogs.yandex.
+||fxhpaoxqyajvmdg.
 ||zbb.bbb.*.pics^
+||tw*.netcore.co.in^
+||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||rum*.a.trbcdn.net^
 ||analytics-api.dvdfab.
 ||xlog*-*.tiktokv.com^
@@ -724,15 +726,13 @@ analytics-*.aasaam.com
 ||touch.yesim.
 ||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
-rgmechanicsgames.com*VPN.exe
-||ad-host-backup-*.aliyuncs.com^
-||fapnado.*.php|
-||itechpost.com*adbk
-||rgfftupf.
-@@||cdn*.porn300.com^
 ||gamenguide.com*adbk
+rgmechanicsgames.com*VPN.exe
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
 ||142.91.159.
-||fxhpaoxqyajvmdg.
+||ad-host-backup-*.aliyuncs.com^
+||fapnado.*.php|
+||itechpost.com*adbk
+@@||cdn*.porn300.com^
 Banner468x60

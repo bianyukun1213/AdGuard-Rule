@@ -1,4 +1,4 @@
-# Update time: 2026-01-31 08:14:37
+# Update time: 2026-01-31 20:05:10
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -6269,6 +6269,7 @@
 0.0.0.0 mapupdatezone.com
 0.0.0.0 stats.shopify.com
 0.0.0.0 windows-en-us-update.com
+0.0.0.0 www.dartya.com
 0.0.0.0 cdn.onthe.io
 0.0.0.0 delivery.clickonometrics.pl
 0.0.0.0 photos.pop6.com

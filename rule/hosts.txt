@@ -1,4 +1,4 @@
-# Update time: 2026-02-03 08:16:26
+# Update time: 2026-02-03 20:08:23
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -12796,6 +12796,7 @@
 0.0.0.0 locp-ir.viber.com
 0.0.0.0 url9810.tokocrypto.com
 0.0.0.0 bl.wavecdn.de
+0.0.0.0 tj6w5.flx10.com
 0.0.0.0 ad.slashgear.com
 0.0.0.0 ads.shizmoo.com
 0.0.0.0 grandeweddings.com

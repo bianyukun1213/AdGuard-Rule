@@ -1,4 +1,4 @@
-# Update time: 2026-02-04 08:13:36
+# Update time: 2026-02-04 20:08:10
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -64,6 +64,7 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
+||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -96,7 +97,6 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
-||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -133,7 +133,16 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
+	window.location.replace(redirect_link + suffix);
+			clearTimeout(rdrTimeout);
+} catch (err) {
+function redirect(suffix) {
 <html>
+<head>
+	if (redirected) return;
+		});
+}
+try {
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
 ||da.hornbach.*^
@@ -193,6 +202,7 @@ advertisers.js|
 ||qchannel*.cn^
 ||tracker*.qcloud.com^
 ||adwords*.*^
+||us.*.qwadro.com^
 ||tnc16-*.byteoversea.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
@@ -274,7 +284,6 @@ advertisers.js|
 ||mon*-misc-lf.fqnovel.com^
 ||mon*-misc.fqnovel.com^
 ||ads*.textra.me^
-||us.*.qwadro.com^
 ||aj2*.online^
 ||cs*.mp3bars.com^
 ||ecommerce-events*.adscale.com^
@@ -362,7 +371,6 @@ advertisers.js|
 ||htm*.hepsiburada.com^
 ||creative*.bidease.com^
 ||mapi-log.qoo*.jp^
-||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
 ||api16-access-ttp*.tiktokpangle-b.us^
@@ -386,7 +394,6 @@ advertisers.js|
 ||browser-intake-*-datadoghq.com^
 ||get*bannerads-6egeg2u34q-du.a.run.app^
 ||collector-*.px-cdn.net^
-||ulog*.gifshow.com^
 ||ads*.zijieapi.com^
 ||host*.polaroid.com^
 ||www.xxmh*.com^
@@ -432,7 +439,6 @@ advertisers.js|
 ||ads*-normal*.zijieapi.com^
 ||xy-*pcdn.msstatic.com^
 ||ac*.faxingchina.com^
-||use-trk*.bluevoox.com^
 ||log*.aliyuncs.com^
 ||geoloc*.geovisite.ovh^
 ||sam*.baby-kingdom.com^
@@ -440,7 +446,6 @@ advertisers.js|
 ||adcs-*.myappsget.com^
 ||mssdk*.capcutapi.com^
 ||t*.zcvh.net^
-||ulog*.kwai-pro.com^
 ||res*.pinpai8.cn^
 ||zcchyw*.xyz^
 ||log*-misc-lq.amemv.com^
@@ -472,7 +477,6 @@ advertisers.js|
 ||fp-*it*.fengkongcloud.com^
 ||aj3*.bid^
 ||host*.rvshare.com^
-||ulog*.kwaipros.com^
 ||log*-*.tiktokv.com^
 ||events-*.op.hicloud.com^
 ||zbc6hye*.xyz^
@@ -524,8 +528,11 @@ analytics-*.aasaam.com
 ||gtmdev.jabra.
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
+||rgfftupf.
 ||adservice.google.
+||counter*.stat.ovh^
 |load.sst.
+||ads.livetv*.me^
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
@@ -607,6 +614,7 @@ analytics-*.aasaam.com
 |piwik.
 ||letssex.
 ||production-adserver-*.amazonaws.com^
+||ad-host-backup-*.aliyuncs.com^
 ||cl*.k5a.io^
 ||analytics.ahrefs.
 ||s*.adduplex.com^
@@ -626,7 +634,9 @@ analytics-*.aasaam.com
 ||query*.petametrics.com^
 ||121.204.246.*.gif
 ||button.blogs.yandex.
+||fxhpaoxqyajvmdg.
 ||zbb.bbb.*.pics^
+||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||rum*.a.trbcdn.net^
 ||analytics-api.dvdfab.
 ||xlog*-*.tiktokv.com^
@@ -644,6 +654,7 @@ analytics-*.aasaam.com
 ||www.fuze-sea*.xyz^
 ||metrics*.fitanalytics.com^
 ||edgetrksvc.ebay.
+||ulog*.gifshow.com^
 ||eclog*-*.cafe24.com^
 ||s*.skencituer.com^
 ||underclick.
@@ -664,12 +675,14 @@ analytics-*.aasaam.com
 ||rehs.*.hu^
 ||cdn*.swaxis.com^
 ||srmdata-*.com^
+||use-trk*.bluevoox.com^
 ||adimg*.search.naver.net^
 ||log*.zijieapi.com^
 ||icq-window.
 ||icqwindow.
 ||st-n.ads*-adnow.com^
 ||cnt.winporn.
+||ulog*.kwai-pro.com^
 ||collector.hamsterix.
 ||h3v9p8x2q1r7-agckaeh6g2ehcaes.*.azurewebsites.net^
 ||matomo-demo-*.amazonaws.com^
@@ -686,6 +699,7 @@ analytics-*.aasaam.com
 ||prebid-cache*.ifunny.co^
 ||cnt.proporn.
 ||popuptraf.
+||ulog*.kwaipros.com^
 ||vst.videolink.
 ||158.247.208.
 |load.gtm.
@@ -721,15 +735,10 @@ analytics-*.aasaam.com
 ||touch.yesim.
 ||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
+||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
-||ad-host-backup-*.aliyuncs.com^
+||142.91.159.
 ||fapnado.*.php|
 ||itechpost.com*adbk
-||rgfftupf.
 @@||cdn*.porn300.com^
-||gamenguide.com*adbk
-||counter*.stat.ovh^
-||ads.livetv*.me^
-||142.91.159.
-||fxhpaoxqyajvmdg.
 Banner468x60

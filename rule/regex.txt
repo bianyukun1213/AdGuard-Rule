@@ -1,4 +1,4 @@
-# Update time: 2026-03-08 20:05:17
+# Update time: 2026-03-09 08:15:14
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -64,6 +64,7 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
+||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -96,7 +97,6 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
-||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -134,15 +134,15 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 	window.location.replace(redirect_link + suffix);
-<html>
-<head>
-}
-try {
 			clearTimeout(rdrTimeout);
 } catch (err) {
 function redirect(suffix) {
+<html>
+<head>
 	if (redirected) return;
 		});
+}
+try {
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
 ||marketplace-*.hyprmx.com^
@@ -231,7 +231,6 @@ analytics-*.aasaam.com
 ||teleriumads-*.netdna-ssl.com^
 ||rgfftupf.
 ||adservice.google.
-||counter*.stat.ovh^
 |load.sst.
 ||ads.livetv*.me^
 ||allsportsflix.
@@ -288,6 +287,7 @@ analytics-*.aasaam.com
 ||weblogger-wss.cool*cloud.com^
 ||track.zalando.
 ||seller-log-collector.shopee.
+||advert*.livesportmedia.eu^
 ||subnewss*.net^
 ||t.delfi.
 ||hostingcloud.*.wasm^
@@ -734,7 +734,7 @@ analytics-*.aasaam.com
 ||ads*.opensubtitles.org^
 ||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
-||advert*.livesportmedia.eu^
+||counter*.stat.ovh^
 ||142.91.159.
 ||fapnado.*.php|
 ||itechpost.com*adbk

@@ -1,4 +1,4 @@
-# Update time: 2026-03-10 20:09:01
+# Update time: 2026-03-11 08:13:39
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2449,6 +2449,7 @@
 0.0.0.0 www.openinternetexchange.com
 0.0.0.0 gastrointestinal.1.p2l.info
 0.0.0.0 ww12.audienceexposure.com
+0.0.0.0 www.ggdark.net
 0.0.0.0 www.strongarchzu.com
 0.0.0.0 sistemishop.it
 0.0.0.0 diazepam.razma.net
@@ -2860,6 +2861,7 @@
 0.0.0.0 ad.groupon.com
 0.0.0.0 kt4.kliptracker.com
 0.0.0.0 www.monkikitchen.com
+0.0.0.0 invelaconstructora.com
 0.0.0.0 ads.viber.com
 0.0.0.0 ad24digital.checkm8.com
 0.0.0.0 counteraport.spylog.com
@@ -3105,6 +3107,7 @@
 0.0.0.0 ad-generator.net
 0.0.0.0 mobile.webvisor.com
 0.0.0.0 h4.helenrosi.com
+0.0.0.0 www.pure-glance.com
 0.0.0.0 media4021.videostrip.com
 0.0.0.0 www.neptuneads.com
 0.0.0.0 audacity.de
@@ -4462,6 +4465,7 @@
 0.0.0.0 www.flexibletool.com
 0.0.0.0 play.heavymetalmachines.com
 0.0.0.0 iovation.co.uk
+0.0.0.0 www.rnleonard.com
 0.0.0.0 tele.oewabox.at
 0.0.0.0 c.my.msn.com
 0.0.0.0 ostalgie.fr
@@ -7604,6 +7608,7 @@
 0.0.0.0 liportal.oewabox.at
 0.0.0.0 s.ntv.io
 0.0.0.0 impes.tradedoubler.com
+0.0.0.0 cp.liferan.pro
 0.0.0.0 www.gatoradvertisinginformationnetwork.com
 0.0.0.0 siteimproveanalytics.com
 0.0.0.0 adserver.icmedienhaus.de
@@ -7767,6 +7772,7 @@
 0.0.0.0 ads.indiatimes.com
 0.0.0.0 ehg-researchinmotion.hitbox.com
 0.0.0.0 tz284.com
+0.0.0.0 www.play-fever.com
 0.0.0.0 vnu.eu-adcenter.net
 0.0.0.0 tradedealvip.su
 0.0.0.0 twofish.freeuk.com
@@ -10725,6 +10731,7 @@
 0.0.0.0 clickthrutraffic.com
 0.0.0.0 tracking.oerug.com
 0.0.0.0 counter32.bravenet.com
+0.0.0.0 www.jackpotcasinojeux.com
 0.0.0.0 adserver.cebu-online.com
 0.0.0.0 www.adlogix.com
 0.0.0.0 wmgmulti.112.2o7.net
@@ -10995,6 +11002,7 @@
 0.0.0.0 sochr.com
 0.0.0.0 metrics.toyota.com
 0.0.0.0 online-pharmacy-online.blogspot.com
+0.0.0.0 heshun.com.tw
 0.0.0.0 synacor-match.dotomi.com
 0.0.0.0 ads.cardea.se
 0.0.0.0 krakragames.com
@@ -11200,6 +11208,7 @@
 0.0.0.0 pix521.adtech.us
 0.0.0.0 www.poker4spain.com
 0.0.0.0 joomlaworks.fr
+0.0.0.0 www.board-ly.com
 0.0.0.0 speed.pointroll.com
 0.0.0.0 mgwspa.112.2o7.net
 0.0.0.0 ad4.bannerbank.ru
@@ -13607,6 +13616,7 @@
 0.0.0.0 tw2.adserver.yahoo.com
 0.0.0.0 securisurf.com
 0.0.0.0 www.friendgreetings.com
+0.0.0.0 www.playtactics-hub.com
 0.0.0.0 ads.toronto.com
 0.0.0.0 vidstatb.taboola.com
 0.0.0.0 xanax-store.shengen.ru

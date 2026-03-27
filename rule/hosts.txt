@@ -1,4 +1,4 @@
-# Update time: 2026-03-27 08:18:26
+# Update time: 2026-03-27 20:13:09
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -7535,6 +7535,7 @@
 0.0.0.0 www.gotorobeks.com
 0.0.0.0 secure-js.kontera.com
 0.0.0.0 ads.nyi.net
+0.0.0.0 www.hypetrust.com
 0.0.0.0 cdn.adk2.com
 0.0.0.0 uav.tidaltv.com
 0.0.0.0 images.netcomvad.com

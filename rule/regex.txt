@@ -1,4 +1,4 @@
-# Update time: 2026-04-03 20:11:12
+# Update time: 2026-04-04 08:17:48
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -133,16 +133,16 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
+	window.location.replace(redirect_link + suffix);
 			clearTimeout(rdrTimeout);
 } catch (err) {
-		});
-}
-try {
-	window.location.replace(redirect_link + suffix);
 function redirect(suffix) {
 <html>
 <head>
 	if (redirected) return;
+		});
+}
+try {
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
 ||marketplace-*.hyprmx.com^
@@ -162,6 +162,7 @@ function redirect(suffix) {
 ||events-*.op.hicloud.com^
 ||iad-*.braze.com^
 ||ms*.applvn.com^
+||ifengad.*.ifeng.com^
 ||v*-ad.video.yximgs.com^
 ||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^
 ||da.hornbach.*^
@@ -236,6 +237,7 @@ analytics-*.aasaam.com
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
+||prebid-*.rubiconproject.com^
 ||ysdm*.ys137.com.cn^
 ||sgtm.fashionunited.
 ||log*-normal-*.tiktokv.com
@@ -286,6 +288,7 @@ analytics-*.aasaam.com
 ||weblogger-wss.cool*cloud.com^
 ||track.zalando.
 ||seller-log-collector.shopee.
+||advert*.livesportmedia.eu^
 ||subnewss*.net^
 ||t.delfi.
 ||hostingcloud.*.wasm^
@@ -514,7 +517,6 @@ analytics-*.aasaam.com
 ||ulog*.*^
 ||a*.smlog.co.kr^
 ||mcs-*.tiktok.com^
-||ifengad.*.ifeng.com^
 ||bjkedv*.xyz^
 ||p26.gejulm*.com^
 ||adservice.google.*^
@@ -746,8 +748,6 @@ rgmechanicsgames.com*VPN.exe
 ||gamenguide.com*adbk
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
-||advert*.livesportmedia.eu^
 ||142.91.159.
 ||fxhpaoxqyajvmdg.
-||prebid-*.rubiconproject.com^
 Banner468x60
